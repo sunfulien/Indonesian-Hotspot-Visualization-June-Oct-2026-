@@ -14,6 +14,9 @@ Dataset:
 Note: 
 the folder legacy entails the trial version of this project using data from January to October (before 31st) 2026 with only Indonesian dataset.
 
+Full report in
+Indonesian : https://thesunholder.wordpress.com/2026/11/09/visualisasi-perkembangan-hotspot-di-indonesia-dari-bulan-juni-hingga-oktober-2026/
+
 
 =======
 >>>>>>> 8ad1286330e5cc1234018fc0880dca7b02dc713e
