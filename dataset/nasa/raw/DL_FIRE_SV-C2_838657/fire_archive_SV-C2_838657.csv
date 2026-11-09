@@ -1,0 +1,4 @@
+latitude,longitude,brightness,scan,track,acq_date,acq_time,satellite,instrument,confidence,version,bright_t31,frp,daynight,type
+1.30782,103.68449,305.51,0.42,0.38,2026-07-05,1832,SNPP,SNPP,n,2,290.08,0.72,N,0
+1.30791,103.68489,326.61,0.35,0.57,2026-07-31,0605,SNPP,SNPP,n,2,288.43,2.21,D,0
+1.30785,103.6871,307.96,0.39,0.36,2026-07-31,1845,SNPP,SNPP,n,2,294.35,2.64,N,0

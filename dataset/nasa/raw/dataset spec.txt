@@ -1,0 +1,62 @@
+    Download Id     : 838650
+    Data Source     : J2 VIIRS C2
+    Start Date      : 2026-06-30
+    End Date        : 2026-10-31
+    Output Format   : csv
+    Area of Interest: Malaysia
+
+    Download Id     : 838649
+    Data Source     : J1 VIIRS C2
+    Start Date      : 2026-06-30
+    End Date        : 2026-10-31
+    Output Format   : csv
+    Area of Interest: Malaysia
+
+    Download Id     : 838651
+    Data Source     : SUOMI VIIRS C2
+    Start Date      : 2026-06-30
+    End Date        : 2026-10-31
+    Output Format   : csv
+    Area of Interest: Malaysia
+
+    Download Id     : 838657
+    Data Source     : SUOMI VIIRS C2
+    Start Date      : 2026-06-01
+    End Date        : 2026-10-31
+    Output Format   : csv
+    Area of Interest: Singapore
+
+    Download Id     : 838656
+    Data Source     : J2 VIIRS C2
+    Start Date      : 2026-06-01
+    End Date        : 2026-10-31
+    Output Format   : csv
+    Area of Interest: Singapore
+
+    Download Id     : 838655
+    Data Source     : J1 VIIRS C2
+    Start Date      : 2026-06-01
+    End Date        : 2026-10-31
+    Output Format   : csv
+    Area of Interest: Singapore
+
+    Download Id     : 838647
+    Data Source     : J2 VIIRS C2
+    Start Date      : 2026-06-01
+    End Date        : 2026-10-31
+    Output Format   : csv
+    Area of Interest: Indonesia
+
+    Download Id     : 838648
+    Data Source     : SUOMI VIIRS C2
+    Start Date      : 2026-06-01
+    End Date        : 2026-10-31
+    Output Format   : csv
+    Area of Interest: Indonesia
+
+    Download Id     : 838646
+    Data Source     : J1 VIIRS C2
+    Start Date      : 2026-06-01
+    End Date        : 2026-10-31
+    Output Format   : csv
+    Area of Interest: Indonesia

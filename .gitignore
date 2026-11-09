@@ -1,0 +1,9 @@
+.visvenv/
+__pycache__/
+*.pyc
+.DS_Store
+
+dataset/nasa/concatenated/nasa_concatenated.csv
+dataset/nasa/cleaned/nasa_cleaned.csv
+legacy/dataset/nasa/final_dataset/nasa_final.csv
+map/gadm41_IDN.gpkg
