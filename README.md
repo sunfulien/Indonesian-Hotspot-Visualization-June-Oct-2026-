@@ -1,5 +1,6 @@
 # Indonesian-Hotspot-Visualization-June-Oct-2026-
 Visualization project of Indonesian Hotspot via NASA FIRMS in the context of forest and land fires happening around those months.
+<<<<<<< HEAD
 
 How to replicate the project:  
 1. install all requirements from requirements.txt
@@ -13,3 +14,5 @@ Dataset:
 
 Note: 
 the folder legacy entails the trial version of this project using data from January to October (before 31st) 2026 with only Indonesian dataset.
+=======
+>>>>>>> 8ad1286330e5cc1234018fc0880dca7b02dc713e
